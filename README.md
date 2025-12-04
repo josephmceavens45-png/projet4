@@ -1,5 +1,5 @@
 ## Projet
-<img src="projet.gif" width=200><br>
+
 
 
 ## Required
@@ -9,3 +9,5 @@
 - [x] User will see the card they just created on the main screen when they press the 'Save Button'
 - [x] Push your progress to GitHub!
 
+
+<img src="projet.gif" width="200" height="400" />  
